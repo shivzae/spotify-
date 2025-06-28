@@ -88,10 +88,15 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 3. **Use a `WITH` clause to calculate the difference between the highest and lowest energy values for tracks in each album.**   
 4. Find tracks where the energy-to-liveness ratio is greater than 1.2.
 5. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
+   
 6.Which tracks are most likely to be good for dance playlists 
+
 7.Which official music videos are not performing well despite being licensed and official?
+
 8.Which artists are generating the most streams across all their tracks?
+
 9.Do longer or shorter tracks tend to get more views?
+
 10.which track per artist has generated the most user interaction (comments)?
 
 
